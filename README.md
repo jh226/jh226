@@ -1,7 +1,7 @@
 # jh226
 ### Hi there 👋
 
--- 주소록 https://github.com/jh226/0404
+- 주소록 https://github.com/jh226/0404
 <!--
 **jh226/jh226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
