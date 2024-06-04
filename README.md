@@ -53,9 +53,8 @@
     <a href="https://open.kakao.com/o/spzYdovg">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
     </a>
-</div>
-<br>
+</div><br>
 
-<div style="display:flex; flex-direction:row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jh226&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue&hide_border=true"> 
+<div style="display:flex; flex-direction:row;" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jh226&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue&hide_border=true&hide=contribs,issues"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh226&layout=compact&hide_border=true"> 
