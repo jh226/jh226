@@ -10,6 +10,9 @@
 Hello, I am Ji-Hyeon Lee, a 4th year student of **Smart IT Security major** in the Department of **IT Convergence**.
 Currently, I am growing as a **full-stack developer** by working on projects for conferences. The current project is implementing hardware with **Raspberry Pi** and a control system using **Node.js** and **React** on the web. Once I finish the project, I plan to study **Java Spring** in the future.
 
+- ✨ I'm WSU student
+- ✨ BIT Academy Course Completion
+- ✨ UI/UX Course Completion
 <br>
 
 ## SKills📚
