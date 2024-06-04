@@ -4,9 +4,15 @@
 
 <div align="right">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjh226&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-</div>
+</div><br>
 
-## SKills
+## Hi there ✌️
+Hello, I am Ji-Hyeon Lee, a 4th year student of **Smart IT Security major** in the Department of **IT Convergence**.
+Currently, I am growing as a f**ull-stack developer** by working on projects for conferences.
+
+<br>
+
+## SKills📚
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -27,26 +33,20 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white"/>
-</div>
 
-<div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
-</div>
+</div><br>
 
-## Other
+
+## Other🔎
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>  
+</div><br>
 
-  <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
-  
-</div>
-
-## Contact
-<div style="display:flex; flex-direction:row;">
+## Contact📌
+<div style="display:flex; flex-direction:row;" align="right">
     <a href="mailto:leejh020206@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
