@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=000069&height=300&section=header&text=Welcome%20to%20jh226's%20Github&fontSize=50&fontColor=FF5A5A"/>
 </div>
 
+<div align="right">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjh226&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+</div>
+
 ## SKills
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
@@ -31,8 +35,4 @@
 </div>
 
 ## About ME
-<div align="center">
-  <img src="https://img.shields.io/badge/leejh020206@gmail.com-informational?style=flat&logo=gmail&logoColor=white"/>
-</div>
-
 [![Blog badge](https://img.shields.io/badge/leejh020206@gmail.com-informational?style=flat&logo=gmail&logoColor=white)](mailto:leejh020206@gmail.com)
