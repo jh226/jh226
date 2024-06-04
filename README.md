@@ -15,7 +15,7 @@ Currently, I am growing as a **full-stack developer** by working on projects for
 - ✨ UI/UX Course Completion
 <br>
 
-## SKills📚
+## Have Used📚
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -29,6 +29,7 @@ Currently, I am growing as a **full-stack developer** by working on projects for
   <img src="https://img.shields.io/badge/Bootstarap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
 </div>
 
 <div align="center">
