@@ -58,7 +58,7 @@ Currently, I am growing as a **full-stack developer** by working on projects for
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>  
 </div><br>
 
-## Contact📌
+## About Me📌
 <div style="display:flex; flex-direction:row;" align="right">
     <a href="mailto:leejh020206@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
