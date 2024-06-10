@@ -12,6 +12,7 @@ Currently, I am growing as a **full-stack developer** by working on projects for
 
 - ✨ I'm WSU student
 - ✨ BIT Academy Course Completion
+  - https://github.com/jh226/BIT-Academy
   - https://github.com/jh226/CCTV_Detect
 - ✨ UI/UX Course Completion
 - ✨ SW expert training course(SW 전문가 양성) Course in progress
