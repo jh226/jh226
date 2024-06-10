@@ -11,10 +11,10 @@ Hello, I am Ji-Hyun Lee, a 4th year student of **Smart IT Security major** in th
 Currently, I am growing as a **full-stack developer** by working on projects for conferences. The current project is implementing hardware with **Raspberry Pi** and a control system using **Node.js** and **React** on the web. Once I finish the project, I plan to study **Java Spring** in the future.
 
 - ✨ I'm WSU student
+- ✨ UI/UX Course Completion
 - ✨ BIT Academy Course Completion
   - https://github.com/jh226/BIT-Academy
   - https://github.com/jh226/CCTV_Detect
-- ✨ UI/UX Course Completion
 - ✨ SW expert training course(SW 전문가 양성) Course in progress
   - https://github.com/jh226/2024-SW-AI 
 <br>
