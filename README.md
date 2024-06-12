@@ -76,7 +76,7 @@ Currently, I am growing as a **full-stack developer** by working on projects for
 </div><br>
 
 <div style="display:flex; flex-direction:row;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jh226&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue&hide_border=true&hide=contribs,issues"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=jh226&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh226&layout=compact"> 
 </div>
 
