@@ -6,17 +6,15 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjh226&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </div><br>
 
-## Hi there ✌️
-Hello, I am Ji-Hyun Lee, a 4th year student of **Smart IT Security major** in the Department of **IT Convergence**.
-Currently, I am growing as a **full-stack developer** by working on projects for conferences. The current project is implementing hardware with **Raspberry Pi** and a control system using **Node.js** and **React** on the web. Once I finish the project, I plan to study **Java Spring** in the future.
-
-- ✨ I'm WSU student
-- ✨ UI/UX Course Completion
-- ✨ BIT Academy Course Completion
+## Hi,there ✌️
+- ✨ 우송대학교 스마트IT보안전공 졸업
+- ✨ 우송 UI/UX 단기과정 수료
+- ✨ 우송 비트 단기과정, 고급과정 수료
   - https://github.com/jh226/BIT-Academy
   - https://github.com/jh226/CCTV_Detect
-- ✨ SW expert training course(SW 전문가 양성) Course in progress
-  - https://github.com/jh226/2024-SW-AI 
+- ✨ SW SW 전문가 양성 Course in progress
+  - https://github.com/jh226/2024-SW-AI
+- ✨ KT AIVLE School -AI트랙 과정 수강 중
 <br>
 
 ## Have Used📚
