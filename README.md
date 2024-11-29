@@ -56,7 +56,8 @@
 ## Other🔎
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat&logo=mysql&logoColor=white"/>
 </div><br>
 
 ## About Me📌
