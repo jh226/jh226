@@ -68,9 +68,9 @@
     <a href="https://open.kakao.com/o/spzYdovg">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
     </a>
-    <a href="https://jihyun-coding.notion.site/908a4a4c32004963a54a5150c9f12a86?pvs=4">
+    <!-- <a href="https://jihyun-coding.notion.site/908a4a4c32004963a54a5150c9f12a86?pvs=4">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
-    </a>
+    </a> -->
 
 </div><br>
 
