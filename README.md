@@ -7,14 +7,14 @@
 </div><br>
 
 ## Hi,there ✌️
- - ✨ 우송대학교 스마트IT보안전공 졸업 
-- ✨ 우송 UI/UX 단기과정 수료
-- ✨ 우송 비트 단기과정, 고급과정 수료
+<!-- - ✨ 우송대학교 스마트IT보안전공 졸업 
+- ✨ 우송 UI/UX 단기과정 수료 
+- ✨ 비트 단기과정, 고급과정 수료
   - https://github.com/jh226/BIT-Academy
   - https://github.com/jh226/CCTV_Detect
 - ✨ SW SW 전문가 양성 Course in progress
   - https://github.com/jh226/2024-SW-AI
-- ✨ KT AIVLE School - AI트랙 과정 수강 중
+- ✨ KT AIVLE School - AI트랙 과정 수강 중-->
 <br>
 
 ## Have Used📚
