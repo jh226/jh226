@@ -79,3 +79,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh226&layout=compact&hide=jupyter%20notebook"> 
 </div>
 
+<!-- ![Programmers Badge](https://raw.githubusercontent.com/jh226/Programmers_Badge_Generator/main/result/result.svg) -->
+
